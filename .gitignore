@@ -1,3 +1,4 @@
 *.pdf
 *.avi
 /output_frames
+/flaw_detector_output_folder
